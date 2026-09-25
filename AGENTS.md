@@ -2,7 +2,7 @@
 
 ## Second Brain (shared agent lessons log)
 
-Before finishing any task, read the protocol in your Google Drive at:
+At the start of each task, read the protocol in your Google Drive at:
 
 AGENT_INSTRUCTIONS.md
 
